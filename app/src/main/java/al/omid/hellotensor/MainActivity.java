@@ -52,17 +52,12 @@ public class MainActivity extends AppCompatActivity {
 
                 float[] inputFloats = {num1, num2, num3};
 
-
-
-
                 inferenceInterface.fillNodeFloat(INPUT_NODE, INPUT_SIZE, inputFloats);
-
 
                 inferenceInterface.runInference(new String[] {OUTPUT_NODE});
 
                 float[] resu = {0, 0};
                 inferenceInterface.readNodeFloat(OUTPUT_NODE, resu);
-
 
                 final TextView textViewR = (TextView) findViewById(R.id.txtViewResult);
                 textViewR.setText(Float.toString(resu[0]) + ", " + Float.toString(resu[1]));
