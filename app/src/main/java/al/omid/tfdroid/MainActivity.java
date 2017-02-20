@@ -3,7 +3,7 @@ Created by Omid Alemi
 Feb 17, 2017
  */
 
-package al.omid.hellotensor;
+package al.omid.tfdroid;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
@@ -16,7 +16,7 @@ import org.tensorflow.contrib.android.TensorFlowInferenceInterface;
 
 public class MainActivity extends AppCompatActivity {
 
-    private static final String MODEL_FILE = "file:///android_asset/optimized_hellotensor.pb";
+    private static final String MODEL_FILE = "file:///android_asset/optimized_tfdroid.pb";
     private static final String INPUT_NODE = "I";
     private static final String OUTPUT_NODE = "O";
 

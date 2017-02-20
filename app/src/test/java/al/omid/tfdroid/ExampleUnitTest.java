@@ -1,4 +1,4 @@
-package al.omid.hellotensor;
+package al.omid.tfdroid;
 
 import org.junit.Test;
 

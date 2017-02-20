@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/HelloTensor.iml" filepath="$PROJECT_DIR$/HelloTensor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TFDroid.iml" filepath="$PROJECT_DIR$/TFDroid.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>

@@ -1,8 +1,8 @@
-# HelloTensor
+# TFDroid
 A simple demo for using Tensorflow models in Android apps
 
 ## Feedback, Bugs, and Questions
-For any questions, feedback, and bug reports, please use the [Github Issues](https://github.com/omimo/HelloTensor/issues).
+For any questions, feedback, and bug reports, please use the [Github Issues](https://github.com/omimo/TFDroid/issues).
 
 ## Credits
 Initially created by [Omid Alemi](https://omid.al/projects/)
